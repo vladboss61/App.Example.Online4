@@ -7,6 +7,13 @@ internal class Program
     internal static void Main(string[] args)
     {
         Additional.SomethingToDisplay();
-        Console.WriteLine("Hello, World!");
+        Additional.SomethingToDisplay();
+        Additional.SomethingToDisplay();
+        Additional.SomethingToDisplay();
+        Additional.SomethingToDisplay();
+        Additional.SomethingToDisplay();
+        Additional.SomethingToDisplay();
+        Additional.SomethingToDisplay();
+        Additional.SomethingToDisplay();
     }
 }
