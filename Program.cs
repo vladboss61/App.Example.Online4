@@ -7,13 +7,8 @@ internal class Program
     internal static void Main(string[] args)
     {
         Additional.SomethingToDisplay();
+        Console.WriteLine("Hello");
         Additional.SomethingToDisplay();
-        Additional.SomethingToDisplay();
-        Additional.SomethingToDisplay();
-        Additional.SomethingToDisplay();
-        Additional.SomethingToDisplay();
-        Additional.SomethingToDisplay();
-        Additional.SomethingToDisplay();
-        Additional.SomethingToDisplay();
+
     }
 }
