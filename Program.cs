@@ -8,11 +8,7 @@ internal class Program
     {
         Additional.SomethingToDisplay();
         Console.WriteLine("Hello");
-
-        if (true)
-        {
-            Additional.SomethingToDisplay();
-        }
+        Additional.SomethingToDisplay();
 
     }
 }
